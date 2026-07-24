@@ -5,6 +5,6 @@ with my learning skill.
 <br>
 Technology -- HTML , CSS.
 <br>
-What i add: I have use make nevbar , heropage , border and some another boxes.
+What i add: I have make nevbar , heropage , border and some another boxes.
 <br>
 Note: This project  is only for practice.
